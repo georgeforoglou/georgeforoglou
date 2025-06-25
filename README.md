@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### 🎯 2024 Goals
 - 🚀 Publish my RARP surgical-phase project
 - 🎤 Present at a local AI or MedTech meetup
-- 🤝 oin — and quickly excel in — a new professional environment as a Machine-Learning / Computer-Vision engineer
+- 🤝 Join — and quickly excel in — a new professional environment as a Machine-Learning / Computer-Vision engineer
 
 ### 🛠 Tech Stack
 ![Python]
