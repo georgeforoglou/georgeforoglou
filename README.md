@@ -37,14 +37,7 @@ Here are some ideas to get you started:
 - 🤝 Join — and quickly excel in — a new professional environment as a Machine-Learning / Computer-Vision engineer
 
 ### 🛠 Tech Stack
-![Python]
-![PyTorch]
-![CUDA]
-![TensorFlow]
-![OpenCV]
-![Docker]
-![GitHub Actions]
-![Flask]
+`Python` · `PyTorch` · `CUDA` · `TensorFlow` · `OpenCV` · `Docker` · `GitHub Actions` · `Flask`
 
 ### 🌍 Outside of Code
 I play semi-professional basketball, I love playing padel and I enjoy travelling and swimming!
