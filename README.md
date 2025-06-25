@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 I play semi-professional basketball, I love playing padel and I enjoy travelling and swimming!
 
 ### 📫 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/georgeforoglou)  
+[LinkedIn](https://www.linkedin.com/in/georgios-vissarion-foroglou-319987212/)  
 Email: **georgeforoglou@gmail.com**
