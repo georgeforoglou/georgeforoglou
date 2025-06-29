@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   &nbsp;• Building end-to-end pipelines (PyTorch | CUDA)  
   &nbsp;• Evaluating distilled ViT backbones 
   &nbsp;• Target: Submission on a journal
+- **Student Assistant - KU Leuven Centre for Legal Theory and Empirical Jurisprudence**
+  Working part-time on **NLP** and **LLM** projects with legal documents.
+  &nbsp;• Evaluating open-source LLMs for stance detection on court articles 
+  &nbsp;• Building end-to-end pipelines
 
 ### 🎓 Education
 | Degree | Institution | Year |
