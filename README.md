@@ -20,7 +20,8 @@ Here are some ideas to get you started:
   Conducting research on **transformers + knowledge distillation** for **robust surgical video phase classification** in robot-assisted radical prostatectomy (**RARP**).  
   &nbsp;• Building end-to-end pipelines (PyTorch | CUDA)  
   &nbsp;• Evaluating distilled ViT backbones 
-  &nbsp;• Target: Submission on a journal
+  &nbsp;• Target: Submission to a journal
+  
 - **Student Assistant - KU Leuven Centre for Legal Theory and Empirical Jurisprudence**
   Working part-time on **NLP** and **LLM** projects with legal documents.
   &nbsp;• Evaluating open-source LLMs for stance detection on court articles 
