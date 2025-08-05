@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 ### 🧠 Interests
 `Artificial Intelligence` • `Machine Learning` • `Computer Vision` • `Biomedical Applications` • `Data Science` • `Software Development`
 
-### 🎯 2025
-Goals
+### 🎯 2025 Goals
 - 🚀 Publish my RARP surgical-phase project
 - 🎤 Present at a local AI or MedTech meetup
 - 🤝 Join — and quickly excel in — a new professional environment as a Machine-Learning / Computer-Vision engineer
